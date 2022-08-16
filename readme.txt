@@ -1,4 +1,4 @@
-   "mods": [
+  
             {
                 "modId": "597D72161FD1ED1D",
                 "name": "AttachmentsCompatability",
@@ -64,4 +64,4 @@
                 "name": "Where Am I",
                 "version": ""
             }
-        ],
+    
